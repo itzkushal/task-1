@@ -1,0 +1,46 @@
+body{
+    margin:0px;
+    text-align: center;
+    
+}
+
+.container {
+  border-bottom-left-radius: 90px;
+  display: flex;
+  flex-direction: row-reverse;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  }
+
+  .bg{
+    border-bottom-left-radius: 90px;
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: #f04e65;
+  }
+
+.img{
+   width: 340px;
+}
+
+.divi{
+  margin-left: 20rem;
+  margin-top: 2rem;
+}
+
+.trophy{
+  
+  width: 80px;
+}
+
+.star{
+  width: 80px;
+}
+.text {
+    margin-top: 20px;
+    font-size: 1.2em;
+  }
